@@ -41,7 +41,7 @@ Dataset público baixado em 23/05/2024 no endereço https://archive.ics.uci.edu/
 - Random Forest
 - Redes Neurais
 - Gradient Boosting Machines (por exemplo, XGBoost, LightGBM)
-- ANálise de séries temporais (ARIMA, LSTM, FNN, CNN e TANN)
+- Análise de séries temporais (ARIMA, LSTM, FNN, CNN e TANN)
 - Otimização do modelo
 
 ## Ferramenta utilizada
